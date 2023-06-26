@@ -69,7 +69,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>fun.yazchen.test.TestApplication</mainClass>
+                    <mainClass>fun.yazchen.demo.TestApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
